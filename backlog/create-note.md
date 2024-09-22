@@ -23,6 +23,7 @@ Remember to take your time, and don't hesitate to ask for help if you need it.
 
 ## Subtasks
 
+* [Create Display and Create pages](/backlog/create-note/create-pages-for-display-and-create.md)
 * [Create a Temporary Data Structure for Storing Notes](/backlog/create-note/store-notes-in-memory.md)
 * [Implement Basic Note Creation Functionality with Validation](/backlog/create-note/add-note-creation-functionality.md)
 * [Retrieve and Display Stored Notes](/backlog/create-note/retrieve-stored-notes.md)
